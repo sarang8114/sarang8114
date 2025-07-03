@@ -5,11 +5,9 @@
 
 ### 🎓 About Me
 
-I’m currently pursuing my Bachelor’s degree in **Computer Engineering** at **Vivekanand Education Society's Institute of Technology (VESIT)**.  
-I have a strong interest in **Data Science**, **Machine Learning**, and **Software Development**.
+I’m currently pursuing my Bachelor’s degree in **Computer Engineering** at **Vivekanand Education Society's Institute of Technology (VESIT)**. I have a strong interest in **Data Science**, **Machine Learning**, and **Software Development**.
 
 As someone who values growth and continuous learning, I look forward to opportunities where I can apply my skills while continuing to push my own boundaries.
-
 
 ### 💻 Technical Skills
 
