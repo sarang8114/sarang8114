@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Sarang Pavanaskar</h1>
+<h3 align="center">Computer Engineering Student | Data Enthusiast | </h3>
 
-<!--
-**sarang8114/sarang8114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently pursuing my Bachelor’s degree in **Computer Engineering** at **Vivekanand Education Society's Institute of Technology (VESIT)**.  
+I have a strong interest in **Data Analytics**, **Machine Learning** and **Software Development**. 
+---
+
+### 💻 Technical Skills
+
+- **Languages:** C, Python, Java
+- **Web Technologies:** HTML, CSS, Javascript, React.js 
+- **Tools & Design:** Figma, Canva 
+- **Data Analysis:** pandas, NumPy, matplotlib, seaborn  
+
+---
+
+### 📫 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sarang8114)  
+- 🌐 [GitHub](https://github.com/sarang8114)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarang8114&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarang8114&layout=compact&theme=gruvbox" alt="Top Languages" />
+</p>
+
+---
+
+> Thanks for stopping by!
