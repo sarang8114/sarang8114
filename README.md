@@ -10,11 +10,11 @@ I have a strong interest in **Data Science**, **Machine Learning**, and **Softwa
 
 As someone who values growth and continuous learning, I look forward to opportunities where I can apply my skills while continuing to push my own boundaries.
 
-### 💻 Technical Skills
+### 💻 Skills
 
-- **Languages:** C, Python, Java, SQL  
-- **Web Technologies:** HTML, CSS, JavaScript, React  
-- **Tools & Design:** Figma, Canva  
+- **Technical Skills:** Java, Python, C, HTML, CSS, JavaScript, SQL, Firebase 
+- **Tools & Design:** Figma, Canva
+- **Core Concepts:** DBMS, DSA, OS, Computer Networks, Software Engineering, Generative AI and LLMs
 
 ---
 
